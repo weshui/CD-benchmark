@@ -1,0 +1,8 @@
+title: 'Youtube Community'
+description: 'In the Youtube social network, users form friendship each other and users can create groups which other users can join. We consider such user-defined groups as ground-truth communities.'
+nodes: 1134890
+edges: 2987624
+directed: False
+communities: 8385
+communitiesAvgSize: 13.50
+communitiesMemberSize: 0.10

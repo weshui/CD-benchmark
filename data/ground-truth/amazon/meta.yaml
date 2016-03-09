@@ -1,0 +1,6 @@
+title: 'Amazon Community'
+description: 'It is based on Customers Who Bought This Item Also Bought feature of the Amazon website. If a product i is frequently co-purchased with product j, the graph contains an undirected edge from i to j. Each product category provided by Amazon defines each ground-truth community.'
+nodes: 334863
+edges: 925872
+directed: False
+communities: 75149
